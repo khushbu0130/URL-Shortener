@@ -3,7 +3,7 @@
 A **user-friendly URL shortener** built with **React JS** that allows you to shorten long links, manage them, and view **analytics** such as click counts and device usage.  
 All data is stored in the browser (`localStorage`), so the app works **without a backend**.
 
----
+
 
 ## ✨ Features
 - 🔗 Shorten long URLs into easy-to-share links  
@@ -13,7 +13,7 @@ All data is stored in the browser (`localStorage`), so the app works **without a
 - ⚡ 100% client-side, no server required  
 - 🎨 Clean and responsive UI  
 
----
+
 
 ## 🛠️ Tech Stack
 - **React JS** (Frontend)  
@@ -22,7 +22,7 @@ All data is stored in the browser (`localStorage`), so the app works **without a
 - **Recharts** (Analytics visualization – optional)  
 - **LocalStorage** (Data persistence)  
 
----
+
 
 ## 🚀 Getting Started
 
